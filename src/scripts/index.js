@@ -3,9 +3,9 @@ import { updateVariant } from "./variants.js"
 
 const bookmarks = [
   {
-    label: "reddit",
+    label: "cancer",
     items: {
-      "r/startpages": "https://www.reddit.com/r/startpages",
+      "x": "https://x.com/home",
       "r/unixporn": "https://www.reddit.com/r/unixporn",
       "r/webdev": "https://www.reddit.com/r/webdev",
       "r/coolgithubprojects ": "https://www.reddit.com/r/coolgithubprojects ",
