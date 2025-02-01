@@ -3,7 +3,7 @@ import { updateVariant } from "./variants.js"
 
 const bookmarks = [
   {
-    label: "life",
+    label: "生",
     items: {
       "hab": "https://habitica.com/",
       "uni": "https://idp.unicampania.it/idp/Authn/UserPassword",
@@ -12,26 +12,12 @@ const bookmarks = [
     },
   },
   {
-    label: "tools",
+    label: "什",
     items: {
-      "img > compress": "https://compressimage.io/",
-      "img > upscale": "https://bigjpg.com/",
-      "css > shadows": "https://www.joshwcomeau.com/shadow-palette/",
+      "snahp": "https://fora.snahp.eu/?__cf_chl_rt_tk=5bbmruXdjRjw_0mO85ImZSe7GdrTdrCn82RKUE0BcTk-1738406398-1.0.1.1-n_ZcfeMUHcv.hZ2B5TQJXnRNcYOTGLMrOb9mhLeQUpI",
+      "ru_t": "https://rutracker.net/forum/index.php",
+      "nya": "https://nyaa.land/",
       "js > bundlephobia": "https://bundlephobia.com/",
-    },
-  },
-  {
-    label: "libs",
-    items: {
-      tailwind: "https://tailwindcss.com/docs/customizing-colors",
-      shadcn: "https://ui.shadcn.com/docs/components",
-    },
-  },
-  {
-    label: "ressources",
-    items: {
-      "react > bulletproof": "https://github.com/alan2207/bulletproof-react",
-      "js > patterns": "https://www.patterns.dev/#patterns",
     },
   },
 ]
