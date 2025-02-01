@@ -3,11 +3,11 @@ import { updateVariant } from "./variants.js"
 
 const bookmarks = [
   {
-    label: "cancer",
+    label: "life",
     items: {
-      "x": "https://x.com/home",
-      "r/unixporn": "https://www.reddit.com/r/unixporn",
-      "r/webdev": "https://www.reddit.com/r/webdev",
+      "hab": "https://habitica.com/",
+      "uni": "https://idp.unicampania.it/idp/Authn/UserPassword",
+      "gym": "https://www.notion.so/63234815ce13442a916031f2a79c616b?v=185cd9560dc08051ad2c000cd8c002ee",
       "r/coolgithubprojects ": "https://www.reddit.com/r/coolgithubprojects ",
     },
   },
