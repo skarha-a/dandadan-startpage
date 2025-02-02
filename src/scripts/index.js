@@ -10,6 +10,8 @@ const bookmarks = [
       "gym": "https://www.notion.so/63234815ce13442a916031f2a79c616b?v=185cd9560dc08051ad2c000cd8c002ee",
       "x": "https://www.x.com/",
       "yt": "https://www.youtube.com/",
+      "yazi": "https://yazi-rs.github.io/docs/quick-start/",
+      "(˶ᵔ ᵕ ᵔ˶)": "blob:moz-extension://459ed612-006c-4be2-85f7-40ca3b756d66/00ab4e8f-f321-4167-8dfc-6058a1e8e124",
     },
   },
   {
@@ -20,6 +22,8 @@ const bookmarks = [
       "nya": "https://nyaa.land/",
       "gpt": "https://chatgpt.com/",
       "ds": "https://chat.deepseek.com/",
+      "→": "https://wumbo.net/symbols/right-arrow/",
+      "(ง'̀-'́)ง": "https://emojicombos.com/nope",
     },
   },
 ]
