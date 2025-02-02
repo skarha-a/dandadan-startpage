@@ -17,11 +17,11 @@ const bookmarks = [
   {
     label: "什",
     items: {
-      "snahp": "https://fora.snahp.eu/?__cf_chl_rt_tk=5bbmruXdjRjw_0mO85ImZSe7GdrTdrCn82RKUE0BcTk-1738406398-1.0.1.1-n_ZcfeMUHcv.hZ2B5TQJXnRNcYOTGLMrOb9mhLeQUpI",
-      "ru_t": "https://rutracker.net/forum/index.php",
+      "sna": "https://fora.snahp.eu/?__cf_chl_rt_tk=5bbmruXdjRjw_0mO85ImZSe7GdrTdrCn82RKUE0BcTk-1738406398-1.0.1.1-n_ZcfeMUHcv.hZ2B5TQJXnRNcYOTGLMrOb9mhLeQUpI",
+      "rut": "https://rutracker.net/forum/index.php",
       "nya": "https://nyaa.land/",
       "gpt": "https://chatgpt.com/",
-      "ds": "https://chat.deepseek.com/",
+      "dsk": "https://chat.deepseek.com/",
       "→": "https://wumbo.net/symbols/right-arrow/",
       "(ง'̀-'́)ง": "https://emojicombos.com/nope",
     },
